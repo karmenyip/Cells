@@ -1,0 +1,13 @@
+{
+	"file": "https://raw.githubusercontent.com/karmenyip/Cells/master/O%20vs%20MeO_Semicolon.csv",
+	"name": "O vs MeO",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Label" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 2 }
+	]
+}
