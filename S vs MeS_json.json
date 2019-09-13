@@ -1,0 +1,13 @@
+{
+	"file": "https://raw.githubusercontent.com/karmenyip/Cells/master/S%20vs%20MeS_Semicolon.csv",
+	"name": "S vs MeS",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Label" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 2 }
+	]
+}
